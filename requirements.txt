@@ -1,3 +1,7 @@
 pywin32
 xmltodict
+flask<3.0
+flask-smorest
+sqlalchemy
+flask-sqlalchemy
 
