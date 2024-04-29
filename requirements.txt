@@ -4,4 +4,5 @@ flask<3.0
 flask-smorest
 sqlalchemy
 flask-sqlalchemy
+marshmallow
 
